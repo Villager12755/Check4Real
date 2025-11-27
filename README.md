@@ -11,7 +11,8 @@ Tap Submit.
 
 Check4Real will analyze the information, highlight any inconsistencies, and flag invalid or mismatched routing-number/bank combinations.
 
-Screenshot:
+Screenshots:
 
+<img width="468" height="1014" alt="image" src="https://github.com/user-attachments/assets/d44245f9-7355-4513-9479-a52aec78fdf4" />
 
 <img width="469" height="1012" alt="image" src="https://github.com/user-attachments/assets/49ed97b0-aed0-4b64-bce3-1b9a8dda77e0" />
